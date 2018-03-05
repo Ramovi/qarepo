@@ -16,14 +16,5 @@ public class reverse {
 		
 	}
 	
-		if (s.equals(M))
-		{
-			
-		}
-		else
-		{
-			System.out.println("Given string is not a palindrome");
-		}
-
 	}
 }
